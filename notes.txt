@@ -1,0 +1,11 @@
+python
+--
+ord()
+--
+a = "Hello, World!"
+print(a[1])
+--
+https://docs.python.org/3/tutorial/controlflow.html
+https://docs.python.org/3.3/tutorial/inputoutput.html
+https://www.python-course.eu/python3_input.php
+
